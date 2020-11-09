@@ -5,8 +5,8 @@
 ##Usage:Rscript prediction.R matrix path/to/data
 args=commandArgs(T)
 
-args[1] <- "/disk/meimei/project/neoantigen/5.Public/Zhangli/data/example.txt"
-args[2] <- "/disk/meimei/project/neoantigen/5.Public/Zhangli/data"
+#args[1] <- "/disk/meimei/project/neoantigen/5.Public/Zhangli/data/example.txt"
+#args[2] <- "/disk/meimei/project/neoantigen/5.Public/Zhangli/data"
 
 #install.packages("mlbench")
 #install.packages("caret")
