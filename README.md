@@ -10,7 +10,7 @@ Prediction subtypes for nasopharyngeal carcinoma using random forest prediction 
 Rscript prediction.R matrix path/to/data
 
 #File in data directory
-example.txt	example TPM matrix
-example_results.txt	prediction results of example data
-genused.txt	Gene symbol needed for prediction
-rf_model.Rdata	The key random forest prediction model
+example.txt:example TPM matrix;
+example_results.txt:prediction results of example data;
+genused.txt:Gene symbol needed for prediction;
+rf_model.Rdata:The key random forest prediction model.
